@@ -1,0 +1,67 @@
+.footer-container {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #ffdeeb;
+    
+    }
+    
+    .food-icons {
+    display: flex;
+    flex-direction: column;
+    
+    
+    }
+    
+    .food, .icons {
+    margin-bottom: 10px;
+    
+    
+    }
+    .information, .menue, .contact {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    }
+    
+    span {
+    font-weight: bold;
+    }
+    
+    ul {
+    list-style: none;
+    padding: 0;
+    }
+    
+    li {
+    margin-bottom: 5px;
+    } 
+    
+    li:not(:last-child) {
+    margin-bottom: 10px;
+    }
+    
+    
+    
+    span {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ff6b6b;
+    }
+    
+    ul {
+    list-style: none;
+    padding: 0;
+    }
+    
+    li {
+    margin-bottom: 5px;
+    color: black;
+    font-size: 1.2rem;
+    }
+    p{
+    color: black;
+    
+    
+    }

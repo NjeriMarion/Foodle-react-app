@@ -1,0 +1,49 @@
+.one{
+    margin-top: -1%;
+    display: flex;
+    gap: 10%;
+    list-style: none;
+    font-size: 20px;
+    padding-left: 8%;
+    font-weight: 400;
+}
+#buy{
+    background-color: red;
+    border: none;
+    border-radius: 25px;
+    padding: 4% 6%;
+    margin-right: 5%;
+    font-weight: 600;
+    font-size: 14px;
+}
+#how{
+    border: none;
+    border-radius: 25px;
+    padding: 4% 6%;
+    margin-right: 5%;
+    font-weight: 600;
+    background: none; 
+    font-size: 14px;
+}
+.one li h2{
+    font-size: 45px;
+    color: red;
+    margin-top: 30%;
+}
+.top{
+    background-color: #ffd43b;
+    padding-bottom:2% ;
+}
+.two{
+    display: flex;
+    gap: 10%;
+    background-color: aliceblue;
+    margin: 2% 5% 0 6%;
+    border-radius: 20px;
+    padding: 2%;
+    padding-left: 7%;
+    font-size: 20px;
+}
+.two h3{
+    font-size: 30px;
+}
